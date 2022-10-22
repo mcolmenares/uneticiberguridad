@@ -1,11 +1,11 @@
-2022-10-22 15:06:11,109 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2022-10-22 15:36:11,270 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8080
  * Running on http://192.168.25.23:8080
-2022-10-22 15:06:11,109 [33mPress CTRL+C to quit[0m
-2022-10-22 15:06:31,940 La respuesta de 40 * 30 = 1200
+2022-10-22 15:36:11,270 [33mPress CTRL+C to quit[0m
+2022-10-22 15:36:17,198 La respuesta de 40 * 30 = 1200
 
-2022-10-22 15:06:31,941 127.0.0.1 - - [22/Oct/2022 15:06:31] "GET /cal/mul/40/30 HTTP/1.1" 200 -
-2022-10-22 15:06:58,397 La respuesta de 40 + 30 = 70
+2022-10-22 15:36:17,199 127.0.0.1 - - [22/Oct/2022 15:36:17] "GET /cal/mul/40/30 HTTP/1.1" 200 -
+2022-10-22 15:36:34,192 La respuesta de 40 + 30 = 70
 
-2022-10-22 15:06:58,398 127.0.0.1 - - [22/Oct/2022 15:06:58] "GET /cal/sum/40/30 HTTP/1.1" 200 -
+2022-10-22 15:36:34,192 127.0.0.1 - - [22/Oct/2022 15:36:34] "GET /cal/sum/40/30 HTTP/1.1" 200 -
