@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-#prueba git 1
 
 from asyncio.log import logger
 from flask import Flask
@@ -54,9 +53,3 @@ def div(val1, val2):
 
 #////////////__XXXX__/////////////////////////////////////////////////#
 #----------------------------------------------------------------
-
-#app = Flask(app.py)
-
-#@app.route('/')
-#def hello_world():
-#   return 'Hello, World!'
